@@ -1,0 +1,2 @@
+# CoinFlips
+Qt_CoinFlips
